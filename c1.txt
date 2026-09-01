@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+=======
+AIML
+CSE
+IT
+CBDS
+>>>>>>> fb
 
